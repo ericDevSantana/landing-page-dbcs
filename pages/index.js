@@ -33,12 +33,14 @@ export default function Home() {
             <a
               href="https://www.freepik.com/vectors/background"
               target="_blank"
+              rel="noreferrer"
             >
               Art{" "}
             </a>
             <a
               href="https://www.freepik.com/vectors/background"
               target="_blank"
+              rel="noreferrer"
             >
               Design{" "}
             </a>
