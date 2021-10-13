@@ -9,10 +9,8 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Dynamic Black Car Service</title>
-        {/* <meta name="viewport" content="initial-scale=0, width=device-width" /> */}
         <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="Black Car Service" />
-        <meta property="og:description" content="This is content." />
         <meta property="og:url" content="www.dynamicbsc.com" />
       </Head>
 
