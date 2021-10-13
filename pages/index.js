@@ -30,20 +30,8 @@ export default function Home() {
           </div>
           <div className={styles["footer-misc-section"]}>
             <h2>Other links</h2>
-            <a
-              href="https://www.freepik.com/vectors/background"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Art{" "}
-            </a>
-            <a
-              href="https://www.freepik.com/vectors/background"
-              target="_blank"
-              rel="noreferrer"
-            >
-              Design{" "}
-            </a>
+            <a href="https://www.freepik.com/vectors/background">Art </a>
+            <a href="https://www.freepik.com/vectors/background">Design </a>
           </div>
           <div className={styles["footer-misc-contact"]}>
             <div>
