@@ -9,7 +9,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Dynamic Black Car Service</title>
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta name="viewport"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
