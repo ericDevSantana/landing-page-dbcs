@@ -81,6 +81,12 @@
   padding: 0 5rem 0 0;
 }
 
+.footer-misc-social a {
+  width: fit-content;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
 .footer-misc-contact {
   width: 30%;
   display: flex;
