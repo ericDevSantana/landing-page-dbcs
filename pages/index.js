@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
+import Link from "next/link";
 import constructionPic from "../public/construction.jpg";
 import styles from "../styles/Home.module.css";
 
@@ -30,8 +31,9 @@ export default function Home() {
           </div>
           <div className={styles["footer-misc-section"]}>
             <h2>Other links</h2>
-            <a href="https://www.freepik.com/vectors/background">Art </a>
-            <a href="/">Design </a>
+            <Link href="https://www.freepik.com/vectors/background">
+              <a>Art</a>
+            </Link>
           </div>
           <div className={styles["footer-misc-contact"]}>
             <div>
