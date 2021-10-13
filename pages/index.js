@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <nav className={styles.nav}>
-        <h1>DYNAMIC BCS</h1>
+        <h1>DYNAMIC BLACK CAR SERVICE</h1>
       </nav>
 
       <main className={styles.main}>
@@ -31,24 +31,22 @@ export default function Home() {
           <div className={styles["footer-misc-section"]}>
             <h2>Other links</h2>
             <a href="https://www.freepik.com/vectors/background">Art </a>
-            <a href="https://www.freepik.com/vectors/background">Design </a>
+            <a href="/">Design </a>
           </div>
           <div className={styles["footer-misc-contact"]}>
             <div>
-              <h2>Call us</h2>
+              <h2>Contact us</h2>
               <div className={styles["phone-number"]}>
-                <p>Phone Number:</p>
-                <h3>(415)767-6551</h3>
+                <p>Phone Number: (415) 767-6551</p>
               </div>
               <div className={styles["phone-number"]}>
-                <p>e-mail:</p>
-                <h3>dynamicbcs@gmail.com</h3>
+                <p>E-mail: dynamicbcs@gmail.com</p>
               </div>
             </div>
           </div>
         </div>
         <p className={styles["footer-foot-note"]}>
-          © 2021 Dynamic Black Car Services. All rights reserved.
+          © 2021 Dynamic Black Car Service. All rights reserved.
         </p>
       </footer>
     </div>
