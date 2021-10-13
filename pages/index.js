@@ -12,6 +12,8 @@ export default function Home() {
         {/* <meta name="viewport" content="initial-scale=0, width=device-width" /> */}
         <link rel="icon" href="/favicon.ico" />
         <meta name="description" content="Black Car Service" />
+        <meta name="og:description" content="This is content." />
+        <meta name="og:url" content="www.dynamicbsc.com" />
       </Head>
 
       <nav className={styles.nav}>
