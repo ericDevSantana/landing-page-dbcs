@@ -43,7 +43,7 @@ export default function Home() {
                 <p>Phone Number: (415) 767-6551</p>
               </div>
               <div className={styles["phone-number"]}>
-                <p>E-mail: dynamicbcs@gmail.com</p>
+                <p>E-mail: dynamicblackcar@gmail.com</p>
               </div>
             </div>
           </div>
