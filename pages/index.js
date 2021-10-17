@@ -27,14 +27,12 @@ export default function Home() {
           <div className={styles["footer-misc-social"]}>
             <h2>Follow us</h2>
             <a>Instagram</a>
-            <a>Twitter</a>
+            <a href="https://twitter.com/dynamicblackcar">Twitter</a>
             <a>Facebook</a>
           </div>
           <div className={styles["footer-misc-section"]}>
             <h2>Other links</h2>
-            <Link href="https://www.freepik.com/vectors/background">
-              <a>Art</a>
-            </Link>
+            <a href="https://www.freepik.com/vectors/background">Art</a>
           </div>
           <div className={styles["footer-misc-contact"]}>
             <div>
